@@ -1,4 +1,4 @@
-# Hello! I'm currently working on a similar but more powerfull app which supports multiple dialogues with built in scripting, gdds, quest, etc. 
+# Simple Dialogue Directed Graph with JSON
 # https://pointbleepstudios.com/speechr/
 
 ---
